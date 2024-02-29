@@ -1,0 +1,27 @@
+.state {
+    fill: #7986BF;
+    stroke: black;
+    stroke-width: 1;
+}
+
+.county {
+    fill: #3498db;
+    stroke: #333;
+    stroke-width: 0.25;
+}
+
+.location {
+    stroke-width: 4;
+}
+
+.departing {
+    fill: #F89880;
+}
+
+.arriving {
+    fill: #408559;
+}
+
+.absolute {
+    position: absolute;
+}
